@@ -1,5 +1,4 @@
 # lines
----
 
 an example program utilizing the MTA-API library by mimouncadosch.
 
